@@ -2,7 +2,7 @@
 layout: default
 ---
 ### 摄影: SunNanXin
-### 描述: 佳能5D3 & 70-200
+### 描述: 
 ### 提交时间: 20210701
         ##### size: 0.2 M, 小熊猫.jpg
 ![小熊猫.jpg](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210701SunNanXin/小熊猫.jpg)

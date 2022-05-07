@@ -46,7 +46,7 @@ layout: default
 ##### size: 0.09 M, 短尾猴尾巴.JPG
 ![短尾猴尾巴.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210919ZouBinbin/短尾猴尾巴.JPG)
 
-##### size: 0.14 M, 
+##### size: 0.14 M, 红尾蚺.JPG
 ![红尾蚺.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210919ZouBinbin/红尾蚺.JPG)
 
 ##### size: 0.29 M, 绿猴尾巴.JPG

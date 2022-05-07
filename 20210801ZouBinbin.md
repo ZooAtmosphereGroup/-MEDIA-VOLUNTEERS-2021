@@ -2,7 +2,7 @@
 layout: default
 ---
 ### 摄影: ZouBinbin
-### 描述: XT30 & TAMRON 70-200mm F2.8 & XT 2X
+### 描述: 
 ### 提交时间: 20210801
         ##### size: 0.18 M, 1号蹭饭鸟.jpg
 ![1号蹭饭鸟.jpg](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210801ZouBinbin/1号蹭饭鸟.jpg)
