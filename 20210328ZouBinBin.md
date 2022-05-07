@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinBin
 ### 描述: 
 ### 提交时间: 20210328
-        ##### size: 0.16 M, 20210328 东方白鹳 邹斌斌.JPG
+##### size: 0.16 M, 20210328 东方白鹳 邹斌斌.JPG
 ![20210328 东方白鹳 邹斌斌.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210328ZouBinBin/20210328 东方白鹳 邹斌斌.JPG)
 
 ##### size: 0.13 M, 20210328 丹顶鹤 邹斌斌.JPG

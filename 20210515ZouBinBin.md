@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinBin
 ### 描述: 
 ### 提交时间: 20210515
-        ##### size: 0.11 M, 大红鹳.JPG
+##### size: 0.11 M, 大红鹳.JPG
 ![大红鹳.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210515ZouBinBin/大红鹳.JPG)
 
 ##### size: 0.13 M, 扬子鳄.JPG

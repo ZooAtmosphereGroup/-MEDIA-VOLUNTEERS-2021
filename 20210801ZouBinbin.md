@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinbin
 ### 描述: 
 ### 提交时间: 20210801
-        ##### size: 0.18 M, 1号蹭饭鸟.jpg
+##### size: 0.18 M, 1号蹭饭鸟.jpg
 ![1号蹭饭鸟.jpg](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210801ZouBinbin/1号蹭饭鸟.jpg)
 
 ##### size: 0.11 M, 2号蹭饭鸟.jpg

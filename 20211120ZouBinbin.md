@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinbin
 ### 描述: 
 ### 提交时间: 20211120
-        ##### size: 0.77 M, DSCF1510.JPG
+##### size: 0.77 M, DSCF1510.JPG
 ![DSCF1510.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20211120ZouBinbin/DSCF1510.JPG)
 
 ##### size: 0.89 M, DSCF1520.JPG

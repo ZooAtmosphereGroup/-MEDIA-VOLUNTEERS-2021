@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinBin
 ### 描述: 
 ### 提交时间: 20210321
-        ##### size: 0.18 M, DSCF6632.JPG
+##### size: 0.18 M, DSCF6632.JPG
 ![DSCF6632.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210321ZouBinBin/DSCF6632.JPG)
 
 ##### size: 0.34 M, DSCF6655.JPG

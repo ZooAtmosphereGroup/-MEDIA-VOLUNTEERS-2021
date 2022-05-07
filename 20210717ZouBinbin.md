@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinbin
 ### 描述: 
 ### 提交时间: 20210717
-        ##### size: 0.23 M, DSCF8844.JPG
+##### size: 0.23 M, DSCF8844.JPG
 ![DSCF8844.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20210717ZouBinbin/DSCF8844.JPG)
 
 ##### size: 0.25 M, DSCF8848.JPG

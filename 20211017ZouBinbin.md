@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinbin
 ### 描述: 
 ### 提交时间: 20211017
-        ##### size: 0.4 M, 吵架的火烈鸟.JPG
+##### size: 0.4 M, 吵架的火烈鸟.JPG
 ![吵架的火烈鸟.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20211017ZouBinbin/吵架的火烈鸟.JPG)
 
 ##### size: 0.47 M, 大红鹳1.JPG

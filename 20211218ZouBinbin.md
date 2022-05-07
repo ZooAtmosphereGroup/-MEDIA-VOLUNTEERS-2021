@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinbin
 ### 描述: 
 ### 提交时间: 20211218
-        ##### size: 0.65 M, DSCF1725.JPG
+##### size: 0.65 M, DSCF1725.JPG
 ![DSCF1725.JPG](https://zooatmospheregroup.github.io/MEDIA-2020//images/mix/20211218ZouBinbin/DSCF1725.JPG)
 
 ##### size: 0.43 M, DSCF1736.JPG
