@@ -4,35 +4,35 @@ layout: default
 ### 摄影: ZouBinBin
 ### 描述: 
 ### 提交时间: 20210321
-##### NO.01A9-NA.DSCF6632.JPG      
-![NO.01A9-NA.DSCF6632.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01A9-NA.DSCF6632.JPG)
+##### NO.21.101-DSCF6632.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 640 
+![NO.21.101-DSCF6632.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.101-DSCF6632.JPG)
 
-##### NO.01AA-NA.DSCF6655.JPG      
-![NO.01AA-NA.DSCF6655.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01AA-NA.DSCF6655.JPG)
+##### NO.21.102-DSCF6655.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 640 
+![NO.21.102-DSCF6655.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.102-DSCF6655.JPG)
 
-##### NO.01AB-NA.DSCF6661.JPG      
-![NO.01AB-NA.DSCF6661.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01AB-NA.DSCF6661.JPG)
+##### NO.21.103-DSCF6661.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 800 
+![NO.21.103-DSCF6661.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.103-DSCF6661.JPG)
 
-##### NO.01AC-NA.DSCF6667.JPG      
-![NO.01AC-NA.DSCF6667.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01AC-NA.DSCF6667.JPG)
+##### NO.21.104-DSCF6667.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 800 
+![NO.21.104-DSCF6667.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.104-DSCF6667.JPG)
 
-##### NO.01AD-NA.DSCF6671.JPG      
-![NO.01AD-NA.DSCF6671.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01AD-NA.DSCF6671.JPG)
+##### NO.21.105-DSCF6671.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 800 
+![NO.21.105-DSCF6671.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.105-DSCF6671.JPG)
 
-##### NO.01AE-NA.DSCF6673.JPG      
-![NO.01AE-NA.DSCF6673.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01AE-NA.DSCF6673.JPG)
+##### NO.21.106-DSCF6673.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 800 
+![NO.21.106-DSCF6673.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.106-DSCF6673.JPG)
 
-##### NO.01AF-NA.DSCF6709.JPG      
-![NO.01AF-NA.DSCF6709.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01AF-NA.DSCF6709.JPG)
+##### NO.21.107-DSCF6709.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/180 14/5 1000 
+![NO.21.107-DSCF6709.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.107-DSCF6709.JPG)
 
-##### NO.01B0-NA.DSCF6711.JPG      
-![NO.01B0-NA.DSCF6711.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01B0-NA.DSCF6711.JPG)
+##### NO.21.108-DSCF6711.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/180 14/5 800 
+![NO.21.108-DSCF6711.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.108-DSCF6711.JPG)
 
-##### NO.01B1-NA.DSCF6718.JPG      
-![NO.01B1-NA.DSCF6718.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01B1-NA.DSCF6718.JPG)
+##### NO.21.109-DSCF6718.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/250 14/5 400 
+![NO.21.109-DSCF6718.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.109-DSCF6718.JPG)
 
-##### NO.01B2-NA.DSCF6724.JPG      
-![NO.01B2-NA.DSCF6724.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//mix/20210321ZouBinBin/NO.01B2-NA.DSCF6724.JPG)
+##### NO.21.10A-DSCF6724.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/250 14/5 400 
+![NO.21.10A-DSCF6724.JPG](https://zooatmospheregroup.github.io/MEDIA-2021/mix/20210321ZouBinBin/NO.21.10A-DSCF6724.JPG)
 
 
 [返回](/Zoo-HZ-Media-Volunteers)
